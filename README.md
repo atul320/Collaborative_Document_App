@@ -1,7 +1,7 @@
 # 🌟 Collaborative Document App  
 **Real-time editing • Live chat • Team collaboration**  
 
-🎥 **[Watch Demo Video](#)** *(Replace with your video link)*  
+🎥 **[Watch Demo Video](https://drive.google.com/file/d/1Xl1PoWBow0vFdLAPzVmpk9A-MK0F1zeh/view?usp=drive_link)** *(Replace with your video link)*  
 
 🚀 **Experience seamless teamwork** with this full-stack web app that lets you:  
 - ✍️ **Edit documents together** in real-time  
@@ -57,7 +57,7 @@ Launch App:
 bash
 npm start
 🎨 Features in Action
-▶️ See the video demo (Replace with your video link)
+▶️ See the video demo (https://drive.google.com/file/d/1Xl1PoWBow0vFdLAPzVmpk9A-MK0F1zeh/view?usp=drive_link)
 
 Real-time cursor tracking 👆
 
