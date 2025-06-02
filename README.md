@@ -77,20 +77,7 @@ Sharing UX: Smoother permission updates needed
 🔨 Contributions welcome!
 
 📬 Get Help
-GitHub Issues
-Feature Requests
+💬chat with me (mailto:bhardwajatul320@gmail.com)
 
 
-**Key features of this version:**
-1. **Video-centric** - Prominently displays your demo video
-2. **Mobile-friendly** - Clean formatting works on all devices
-3. **Badge visuals** - Tech stack icons for quick recognition
-4. **Action-oriented** - Clear step-by-step setup
-5. **Transparent about limitations** - Builds trust with users
 
-Remember to:
-- Replace `#` with your actual video link
-- Update GitHub username in URLs
-- Add your MongoDB connection string in the `.env` example
-
-Would you like me to adjust any particular section further?
