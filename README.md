@@ -75,7 +75,7 @@ Editor sync: Rare conflicts during heavy editing
 Sharing UX: Smoother permission updates needed
 
 🔨 Contributions welcome!
-
+```
 📬 Get Help
 💬chat with me (mailto:bhardwajatul320@gmail.com)
 
